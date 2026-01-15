@@ -12,7 +12,6 @@ website:
         text: Home
       - about.qmd
       - visualisations.qmd
-      - hobbies.qmd
       - reflections.qmd
 
 format:
