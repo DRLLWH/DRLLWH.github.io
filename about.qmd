@@ -1,28 +1,52 @@
 ---
-title: "Student Intership at ACRA"
+title: "Student Internship at ACRA"
 ---
 
-The organization that I am doing my internship with is Accounting and Corporate Regulatory Authority (ACRA). ACRA is a statutory board under the Ministry of Finance. It is the regulator of business registration, financial reporting, public accountants and corporate service providers. It also plays the role of a facilitator for the development of business entities and the public accountancy profession.
+The organisation that I am undertaking my internship with is the **Accounting and Corporate Regulatory Authority (ACRA)**. ACRA is a *statutory board under the Ministry of Finance* and serves as the **national regulator** of:
 
-ACRA is responsible for carrying out the following functions:
+- business registration  
+- financial reporting  
+- public accountants  
+- corporate service providers  
 
--	To administer the Accounting and Corporate Regulatory Authority Act 2004, the Accountants Act 2004, the Business Names Registration Act 2014, the Companies Act 1967, the Limited Liability Partnerships Act 2005, the Limited Partnerships Act 2008 and the Variable Capital Companies Act 2018
+In addition to its regulatory responsibilities, ACRA also plays a key role as a **facilitator** in the development of business entities and the *public accountancy profession* in Singapore.
 
--	To report and make recommendations to, and advise the Government on matters relating to the registration and regulation of business entities, public accountants, and corporate service providers
+---
 
--	To establish and administer a repository of documents and information relating to business entities, public accountants, and corporate service providers and to provide access to the public to such documents and information
+### Key Functions of ACRA
 
--	To represent the Government internationally in matters relating to the registration and regulation of business entities, public accountants, and corporate service providers
+ACRA is responsible for carrying out several important functions, including:
 
--	To promote public awareness about new business structures, compliance requirements, corporate governance practice and any matter under the purview of the Authority
+- **Administering legislation**, such as the *Accounting and Corporate Regulatory Authority Act 2004*, *Companies Act 1967*, and *Variable Capital Companies Act 2018*.
+- **Reporting to and advising the Government** on matters relating to the registration and regulation of business entities, public accountants, and corporate service providers.
+- **Establishing and managing a repository** of documents and information relating to business entities and providing *public access* to such information.
+- **Representing the Government internationally** in matters concerning business registration and regulation.
+- **Promoting public awareness** of new business structures, compliance requirements, and corporate governance practices.
 
-The purpose of my internship is to allow me to gain work experience in a professional environment. Knowing that most data analysts will need to figure out which sector they would like to work in, it gives me a chance to experience how it is like to be a data analyst in the accounting industry and in the public sector. 
+---
 
-The department that I am attached to is called the Financial Reporting and Information Department. It is responsible for administering the Financial Reporting Surveillance Programme (FRSP). Under the FRSP, selected financial statements (FS) filed with ACRA are reviewed for compliance with the prescribed accounting standards in Singapore. To achieve the objective of improving the quality of financial reporting, the department embarked on a project to identify high-risk companies, i.e. risk profiling project. 
+### Purpose of Internship
 
-This internship allows me to participate in this key project which focuses on identifying companies in certain high-risk areas through the use of financial data with the help of machine learning and accounting rules. As the department is also responsible for the collection of financial data from companies, I was also involved in some operational work to ease the workload of the department. 
+The primary purpose of my internship is to **gain practical work experience** in a professional environment. As many *data analysts* need to determine which sector they would like to work in, this internship provides me with valuable exposure to what it is like to work as a **data analyst in both the accounting industry and the public sector**.
 
-Main Tasks done through my internship at ACRA:
+---
+
+### Department and Project Involvement
+
+I am attached to the **Financial Reporting and Information Department**, which is responsible for administering the **Financial Reporting Surveillance Programme (FRSP)**. Under the FRSP, selected *financial statements* filed with ACRA are reviewed to assess their **compliance with prescribed accounting standards in Singapore**.
+
+To support the objective of *improving the quality of financial reporting*, the department initiated a **risk profiling project** aimed at identifying **high-risk companies**.
+
+---
+
+### Internship Experience and Contributions
+
+During my internship, I participated in this key project by analysing **financial data** using a combination of *machine learning techniques* and **accounting rules** to identify companies operating in high-risk areas.
+
+In addition to project work, I was also involved in **operational tasks** related to the collection and processing of financial data, which helped to *ease the workload* of the department.
+
+---
+
+### Main Tasks Completed During My Internship at ACRA
+
 ![](imgs/Internship.jpg){width=80%}
-
-
