@@ -4,4 +4,4 @@ title: "temp_website"
 
 ![](imgs/DarylLai_2503047.jpg){width=100px fig-align="left"}
 
-Hello! I'm Daryl Lai, an Applied Computing (FinTech) undergraduate with hands-on experience in machine learning, financial data analysis, and software development.
+Hello! I'm Daryl Lai, a Applied Computing (FinTech) undergraduate with hands-on experience in machine learning, financial data analysis, and software development. Strong foundation in Python, C#, and SQL, with internship experience at the Accounting and Corporate Regulatory Authority (ACRA). Seeking opportunities in data analytics, fintech, or applied AI.
