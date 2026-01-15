@@ -1,7 +1,7 @@
 ---
-title: "visualisations"
+title: "My Visualisations"
 ---
 
 ![](imgs/graph1.jpg)
 
-Figure 1: Example of a graph visualization.
+Figure 1: Example of a boxplpot graph.That I did during my project about finding out which airline is the best using sentiment analysis from customer reviews from the StatTrax Website.

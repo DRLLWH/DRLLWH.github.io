@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "My Portfolio"
   favicon: favicon.png
   navbar:
     logo: logo.png
@@ -11,11 +11,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-        text: Internship Overview
       - visualisations.qmd
-        text: My Visualisations
-      - reflection.qmd
-        text: Reflection on Use of GenAI
+      - reflections.qmd
 
 format:
   html:

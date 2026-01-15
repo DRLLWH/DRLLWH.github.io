@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "About Me",
     "section": "",
-    "text": "Hello! I’m Daryl Lai, a Applied Computing (FinTech) undergraduate with hands-on experience in machine learning, financial data analysis, and software development. Strong foundation in Python, C#, and SQL, with internship experience at the Accounting and Corporate Regulatory Authority (ACRA). Seeking opportunities in data analytics, fintech, or applied AI."
+    "text": "Hello! I’m Daryl Lai, a Applied Computing (FinTech) undergraduate with hands-on experience in machine learning, financial data analysis, and software development. Strong foundation in Python, C#, and SQL, with internship experience at the Accounting and Corporate Regulatory Authority (ACRA). Seeking opportunities in data analytics, fintech, or applied AI.\nMore about me - I have many hobbies from photography to excercisng. You can find out more about me in the other sections of this website!"
   },
   {
     "objectID": "about.html",
@@ -72,8 +72,8 @@
   {
     "objectID": "visualisations.html",
     "href": "visualisations.html",
-    "title": "visualisations",
+    "title": "My Visualisations",
     "section": "",
-    "text": "Figure 1: Example of a graph visualization."
+    "text": "Figure 1: Example of a boxplpot graph.That I did during my project about finding out which airline is the best using sentiment analysis from customer reviews from the StatTrax Website."
   }
 ]
