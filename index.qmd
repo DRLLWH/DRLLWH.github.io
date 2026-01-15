@@ -2,4 +2,8 @@
 title: "temp_website"
 ---
 
-![](imgs\DarylLai_2503047.jpg){width=80%}
+::: {style="float:left; position: relative; top: 0px"}
+![](imgs\DarylLai_2503047.jpg){height="100px" style="margin-right: 10px; align: left"}
+:::
+
+Hello! I'm Daryl Lai, a Applied Computing (FinTech) undergraduate with hands-on experience in machine learning, financial data analysis, and software development. Strong foundation in Python, C#, and SQL, with internship experience at the Accounting and Corporate Regulatory Authority (ACRA). Seeking opportunities in data analytics, fintech, or applied AI.
