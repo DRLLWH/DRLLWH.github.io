@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "About Me"
+  title: "temp_website"
   favicon: favicon.png
   navbar:
     logo: logo.png
