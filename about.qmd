@@ -23,6 +23,6 @@ The department that I am attached to is called the Financial Reporting and Infor
 This internship allows me to participate in this key project which focuses on identifying companies in certain high-risk areas through the use of financial data with the help of machine learning and accounting rules. As the department is also responsible for the collection of financial data from companies, I was also involved in some operational work to ease the workload of the department. 
 
 Main Tasks done through my internship at ACRA:
-![](imgs/Internship.png){width=80%}
+![](imgs/Internship.jpg){width=80%}
 
 

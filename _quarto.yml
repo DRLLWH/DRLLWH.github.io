@@ -11,6 +11,11 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+        text: Internship Overview
+      - visualisations.qmd
+        text: My Visualisations
+      - reflection.qmd
+        text: Reflection on Use of GenAI
 
 format:
   html:

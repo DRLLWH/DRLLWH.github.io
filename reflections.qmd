@@ -1,0 +1,59 @@
+---
+title: "Reflection on the use of GenAI"
+---
+
+## Introduction
+
+In this assessment, I used Generative Artificial Intelligence (GenAI) tools to support my learning, content creation, and problem-solving process. GenAI was used as a supplementary aid rather than a replacement for my own understanding and effort.
+
+---
+
+## GenAI Tool Used and Reason for Selection
+
+The primary GenAI tool I used was **ChatGPT**. I chose this tool because it is easily accessible, provides clear explanations, and is effective in breaking down complex technical concepts into understandable steps. It was particularly useful for learning-related tasks and iterative refinement of ideas.
+
+---
+
+## How GenAI Helped in Completing the Assessment
+
+GenAI assisted me in several ways throughout the assessment:
+
+- **Clarifying concepts:** When I encountered unfamiliar or confusing topics, GenAI helped explain them in simpler terms, allowing me to grasp the underlying logic more quickly.
+- **Structuring content:** The tool helped me organise my thoughts and structure written content more clearly, especially when drafting explanations and reflections.
+- **Debugging and improvement:** GenAI was useful in identifying errors and suggesting improvements in code or formatting, which helped me resolve issues more efficiently.
+- **Guidance rather than answers:** Instead of providing direct solutions, the tool often guided me step-by-step, encouraging independent thinking.
+
+---
+
+## Benefits of Using GenAI
+
+The key benefits of using GenAI include:
+
+- Improved efficiency when researching or troubleshooting
+- Clear and concise explanations tailored to my level of understanding
+- Immediate feedback and suggestions for improvement
+- Support for independent learning outside of classroom hours
+
+---
+
+## Challenges and Limitations
+
+Despite its usefulness, GenAI also has limitations:
+
+- The output may sometimes be too generic and requires critical evaluation
+- There is a risk of over-reliance if the user does not actively engage with the material
+- Not all generated information is guaranteed to be fully accurate, so verification is necessary
+
+These limitations highlighted the importance of using GenAI responsibly and critically.
+
+---
+
+## Future Use of GenAI in Study and Work
+
+In the future, I believe GenAI tools will continue to assist me in both academic and professional settings. They can be useful for learning new technologies, drafting documentation, brainstorming ideas, and improving productivity. However, I will continue to rely on my own understanding and judgement as the primary source of decision-making.
+
+---
+
+## Conclusion
+
+Overall, GenAI was a valuable learning support tool during this assessment. When used responsibly, it enhanced my understanding, efficiency, and confidence without replacing independent effort or critical thinking.

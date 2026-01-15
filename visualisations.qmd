@@ -1,0 +1,7 @@
+---
+title: "visualisations"
+---
+
+![](imgs/graph1.jpg)
+
+Figure 1: Example of a graph visualization.
